@@ -23,6 +23,23 @@ Er zijn veel mensen die willen sporten, maar het probleem dat er dan heerst is d
 
 ---
 
+### Wireframes
+
+![#1](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%231.png)
+![#2](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%232.png)
+![#3](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%233.png)
+![#4](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%234.png)
+![#5](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%235.png)
+![#6](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%236.png)
+![#7](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%237.png)
+![#8](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%238.png)
+![#9](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%239.png)
+![#10](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%2310.png)
+![#11](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%2311.png)
+![#12](https://github.com/Lumpsum/Programmeerproject/blob/master/doc/%2312.png)
+
+---
+
 ### Datasets en datasources
 
 Elke user heeft een profiel met bepaalde data over wat voor sport diegene wil gaan beoefen en hoe ervaren de persoon is. Hierbij kan je denken aan hardlopen of fitness en bij de ervaring hoeveel jaar de persoon de sport al beoefent of bepaalde behaalde resultaten. Verder wordt er ook genoteerd wat de doelen zijn van de persoon, zodat de app personen met dezelfde doelen makkelijk kan matchen. Om al deze data bij te houden wordt er gebruik gemaakt van een FireBase, omdat je hiermee eenvoudig data kan opvragen en naartoe kan schrijven.
